@@ -1,0 +1,224 @@
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaro.ECA85727.Up2Date
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\utika\source\repos\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaro.ECA85727.Up2Date
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\utika\Desktop\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CopyComplete
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\User\Downloads\Telegram Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CopyComplete
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CopyComplete
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+D:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+C:\Users\utika\Desktop\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaro.ECA85727.Up2Date
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\ai_taro.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\App.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\gl.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\Main.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MainWindow.baml
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CopyComplete
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\MegaTaroCard (4)\MegaTaroCard\MegaTaroCard\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+C:\Users\utika\Desktop\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+C:\Users\utika\Desktop\Taro\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\utika\Desktop\Taro\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\ai_taro.baml
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\gl.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\ai_taro.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\Main.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MainWindow.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\App.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\gl.baml
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\Main.baml
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MainWindow.baml
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaro.ECA85727.Up2Date
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+C:\Users\utika\Desktop\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.pdb
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.exe.config
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\bin\Debug\MegaTaroCard.pdb
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\bin\Debug\Newtonsoft.Json.dll
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\bin\Debug\Newtonsoft.Json.xml
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.AssemblyReference.cache
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\ai_taro.baml
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\gl.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\ai_taro.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\Main.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MainWindow.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\App.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_Content.g.cs
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.cache
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard_MarkupCompile.lref
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\gl.baml
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\Main.baml
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MainWindow.baml
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.g.resources
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.Properties.Resources.resources
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.GenerateResource.cache
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CoreCompileInputs.cache
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.csproj.CopyComplete
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.exe
+E:\курсач\MegaTaroCard (4)\Taro\MegaTaroCard\obj\Debug\MegaTaroCard.pdb

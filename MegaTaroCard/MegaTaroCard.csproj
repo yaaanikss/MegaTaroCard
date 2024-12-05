@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E27B1DF4-4DB6-4DE6-B24A-B04557B9D0D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MegaTaroCard</RootNamespace>
+    <AssemblyName>MegaTaroCard</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="gl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ai_taro.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="gl.xaml.cs">
+      <DependentUpon>gl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ai_taro.xaml.cs">
+      <DependentUpon>ai_taro.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Main.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.xaml.cs">
+      <DependentUpon>Main.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fook\Десятка Жезлов.jpg" />
+    <Resource Include="fook\Десятка Мечей.jpg" />
+    <Resource Include="fook\Десятка Пентаклей.jpg" />
+    <Resource Include="fook\Десятка Кубков.jpg" />
+    <Resource Include="fook\Двойка Жезлов.jpg" />
+    <Resource Include="fook\Двойка Мечей.jpg" />
+    <Resource Include="fook\Двойка Пентаклей.jpg" />
+    <Resource Include="fook\Двойка Кубков.jpg" />
+    <Resource Include="fook\Тройка Жезлов.jpg" />
+    <Resource Include="fook\Тройка Мечей.jpg" />
+    <Resource Include="fook\Тройка Пентаклей.jpg" />
+    <Resource Include="fook\Тройка Кубков.jpg" />
+    <Resource Include="fook\Четверка Жезлов.jpg" />
+    <Resource Include="fook\Четверка Мечей.jpg" />
+    <Resource Include="fook\Четверка Пентаклей.jpg" />
+    <Resource Include="fook\Четверка Кубков.jpg" />
+    <Resource Include="fook\Пятерка Жезлов.jpg" />
+    <Resource Include="fook\Пятерка Мечей.jpg" />
+    <Resource Include="fook\Пятерка  Пентаклей.jpg" />
+    <Resource Include="fook\Пятерка Кубков.jpg" />
+    <Resource Include="fook\Шестерка Жезлов.jpg" />
+    <Resource Include="fook\Шестерка Мечей.jpg" />
+    <Resource Include="fook\Шестерка пентаклей.jpg" />
+    <Resource Include="fook\Шестерка Кубков.jpg" />
+    <Resource Include="fook\Семерка Жезлов.jpg" />
+    <Resource Include="fook\Семерка Мечей.jpg" />
+    <Resource Include="fook\Семерка Пентаклей.jpg" />
+    <Resource Include="fook\Семерка Кубков.jpg" />
+    <Resource Include="fook\Восьмерка Жезлов.jpg" />
+    <Resource Include="fook\Восьмерка Мечей.jpg" />
+    <Resource Include="fook\Восьмерка Пентаклей.jpg" />
+    <Resource Include="fook\Восьмерка Кубков.jpg" />
+    <Resource Include="fook\Девятка Жезлов.jpg" />
+    <Resource Include="fook\Девятка Мечей.jpg" />
+    <Resource Include="fook\Девятка Пентаклей.jpg" />
+    <Resource Include="fook\Девятка Кубков.jpg" />
+    <Resource Include="fook\Башня.jpg" />
+    <Resource Include="fook\Влюбленные.jpg" />
+    <Resource Include="fook\Дурак.jpg" />
+    <Resource Include="fook\Дьявол.jpg" />
+    <Resource Include="fook\Жрица.jpg" />
+    <Resource Include="fook\Звезда.jpg" />
+    <Resource Include="fook\Иерофант.jpg" />
+    <Resource Include="fook\Император.jpg" />
+    <Resource Include="fook\Императрица.jpg" />
+    <Resource Include="fook\Колесница.jpg" />
+    <Resource Include="fook\Колесо Фортуны.jpg" />
+    <Resource Include="fook\королева ж.jpg" />
+    <Resource Include="fook\Королева Мечей.jpg" />
+    <Resource Include="fook\Королева Пентаклей.jpg" />
+    <Resource Include="fook\Королева Кубков.jpg" />
+    <Resource Include="fook\Король Жезлов.jpg" />
+    <Resource Include="fook\Король Мечей.jpg" />
+    <Resource Include="fook\Король Пентаклей.jpg" />
+    <Resource Include="fook\Король Кубков.jpg" />
+    <Resource Include="fook\Луна.jpg" />
+    <Resource Include="fook\Маг.jpg" />
+    <Resource Include="fook\Мир.jpg" />
+    <Resource Include="fook\Отшельник.jpg" />
+    <Resource Include="fook\Паж Жезлов.jpg" />
+    <Resource Include="fook\Паж Мечей.jpg" />
+    <Resource Include="fook\Паж Пентаклей.jpg" />
+    <Resource Include="fook\Паж Кубков.jpg" />
+    <Resource Include="fook\Повешенный.jpg" />
+    <Resource Include="fook\Рыцарь Жезлов.jpg" />
+    <Resource Include="fook\Рыцарь Мечей.jpg" />
+    <Resource Include="fook\Рыцарь Пентаклей.jpg" />
+    <Resource Include="fook\Рыцарь Кубков.jpg" />
+    <Resource Include="fook\Сила.jpg" />
+    <Resource Include="fook\Смерть.jpg" />
+    <Resource Include="fook\Солнце.jpg" />
+    <Resource Include="fook\Справедливость.jpg" />
+    <Resource Include="fook\Суд.jpg" />
+    <Resource Include="fook\Туз Жезлов.jpg" />
+    <Resource Include="fook\Туз Мечей.jpg" />
+    <Resource Include="fook\Туз Пентаклей.jpg" />
+    <Resource Include="fook\Туз Кубков.jpg" />
+    <Resource Include="fook\Умеренность.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fook\лем.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fook\шар.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="fook\Небо.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fook\glamur.mp3" />
+    <Resource Include="fook\loading.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
